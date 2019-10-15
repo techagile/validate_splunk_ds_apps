@@ -1,0 +1,5 @@
+---
+- hosts: splunk_ds
+  #become: yes 
+  roles:
+    - validate_splunkds
