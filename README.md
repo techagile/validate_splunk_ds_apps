@@ -1,7 +1,7 @@
 Purpose
 =========
 
-Install Splunk AppInspect to validate [Splunk Deployment Apps](http://dev.splunk.com/view/appinspect/SP-CAAAE9U) 
+Install [Splunk AppInspect](http://dev.splunk.com/view/appinspect/SP-CAAAE9U)  to validate Splunk Deployment Apps
 
 License
 -------
